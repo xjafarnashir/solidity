@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-contract tokoroti {
+contract satuOrangSatu {
   mapping(string=>uint)public nameToUint;
   uint[]public jumlahRotiTerjual;
   string[]public namanamapembeli;
